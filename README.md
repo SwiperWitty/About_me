@@ -55,6 +55,19 @@ ____
 
 
 
+#### 工程版
+
+不开源
+
+
+
+|      小白版      |    常规版     |      工程版      | 无线系列 |
+| :--------------: | :-----------: | :--------------: | :------: |
+|  STM32F103C8T6   | STM32F103RCT6 | 其他主频高的系列 |  ESP32   |
+| 易用、易学、便宜 | 易用、功能全  | 功能全、追求性能 | 方便DIY  |
+
+
+
 <img src="https://raw.githubusercontent.com/SwiperWitty/img/main/img/image-20220830144218244.png" alt="image-20220830144218244" style="zoom:50%;" />
 
 
@@ -67,11 +80,13 @@ ____
 
 难度：一般
 
-[软件程序(github.com)](https://github.com/SwiperWitty/V831_Example_Caven)
+[V831软件程序(github.com)](https://github.com/SwiperWitty/V831_Example_Caven)
 
-硬件暂时是从  [Sipeed ](https://wiki.sipeed.com/) 买的
+V831硬件暂时是从  [Sipeed ](https://wiki.sipeed.com/) 买的
 
 
+
+其他不开源
 
 
 
@@ -134,6 +149,32 @@ ____
 
 
 _____
+
+## 想做的项目
+
+#### 氮化镓系列
+
+可调电源
+
+加热台
+
+
+
+#### 小车系列
+
+闭环视觉小车
+
+强动力小车
+
+
+
+#### 视觉系列
+
+相机
+
+
+
+___
 
 ## 写在最后
 
