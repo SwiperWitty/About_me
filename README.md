@@ -1,6 +1,6 @@
 # About_me
 
-我叫**卡文迪许怪**！（绰号）又称B站**哆啦A梦本梦**！
+我叫**卡文迪许怪**！（绰号）又称**哆啦A梦本梦**！
 
 我的网址
 
@@ -53,9 +53,15 @@ ____
 
 [硬件-底板 (github.com)](https://github.com/SwiperWitty/PCB-Control)
 
+
+
 <img src="https://raw.githubusercontent.com/SwiperWitty/img/main/img/image-20220830144218244.png" alt="image-20220830144218244" style="zoom:50%;" />
 
 
+
+
+
+____
 
 ### SOC相关
 
@@ -67,9 +73,15 @@ ____
 
 
 
+
+
+_____
+
 ### 电源相关
 
 难度：高（易炸）
+
+电源\运放实验板（对于入门有用！）（暂未开源）
 
 [老版Bird (github.com)](https://github.com/SwiperWitty/Bird)
 
@@ -79,11 +91,19 @@ ____
 
 还有新的，预计在 2022年前出现...
 
+
+
 <img src="https://raw.githubusercontent.com/SwiperWitty/img/main/img/image-20220830144244425.png" alt="image-20220830144244425" style="zoom:50%;" />
 
 
 
+
+
+____
+
 ### 驱动相关
+
+驱动实验板（对于入门有用！）（暂未开源）
 
 难度：高（易炸）
 
@@ -103,17 +123,27 @@ ____
 
 
 
+
+
 ### 别人的库
 
 [精品嵌入式资源汇总 (github.com)](https://github.com/SwiperWitty/EmbedSummary)
+
+
+
+
 
 _____
 
 ## 写在最后
 
+欢迎大佬来指正设计中存在的不足之处！欢迎讨论哦 
+
 很多项目都是在GitHub，我知道这对新手可能不太友好，但是！学会使用GitHub无论是对学习还是工作都是很重要的，作为一个开发者这些小问题我相信你是可以克服的！
 
 （主要是有些人喜欢拿我的开源去做毕设，我本来不太反感，可是他们居然还想让我改，你说你以学习为目的也就算了。我并不欢迎非开发者使用这些开源，所以之后的文档**不提供**毕业设计必要的源文件，文档也会添加水印哦！毕竟来参考的工程师看了原理图就能自己做出来了）
+
+
 
 
 
