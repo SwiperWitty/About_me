@@ -4,13 +4,13 @@
 
 我的网址
 
-[卡文迪许怪-bilibili](https://space.bilibili.com/102898291)
+[卡文迪许怪-bilibili](https://space.bilibili.com/102898291)   （常用）
 
 [SwiperWitty-GitHub](https://github.com/SwiperWitty) （常用）
 
 [Swiper_witty-Gitee](https://gitee.com/Swiper_witty) (不常用)
 
-QQ群：455839434
+QQ群：455839434   （讨论、问问题）
 
 
 
