@@ -77,9 +77,11 @@ ____
 
 难度：一般
 
-[V831软件程序(github.com)](https://github.com/SwiperWitty/V831_Example_Caven)
+[V831软件程序](https://github.com/SwiperWitty/V831_Example_Caven)
 
-V831硬件暂时是从  [Sipeed ](https://wiki.sipeed.com/) 买的
+[SOC硬件设计](https://github.com/SwiperWitty/PCB_Linux)
+
+V831硬件暂时是从  [Sipeed ](https://wiki.sipeed.com/) 买的核心板
 
 
 
@@ -129,17 +131,15 @@ ____
 
 ## 卡文提供的库
 
-[ AD2022 元件+封装(github.com)](https://github.com/SwiperWitty/PCB-Lib)
+[ AD-元件+封装](https://github.com/SwiperWitty/PCB-Lib)
 
-[云端算法库，请勿拉屎！ (github.com)](https://github.com/SwiperWitty/MCU_LIB-Cloud-)
-
-
+[云端算法库，请勿拉屎！](https://github.com/SwiperWitty/MCU_LIB-Cloud-)
 
 
 
 ### 别人的库
 
-[精品嵌入式资源汇总 (github.com)](https://github.com/SwiperWitty/EmbedSummary)
+[精品嵌入式资源汇总](https://github.com/SwiperWitty/EmbedSummary)
 
 
 
