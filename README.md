@@ -16,9 +16,7 @@ QQ群：455839434   （讨论、问问题）
 
 - 电子信息工程专业
 - 电子爱好者
-- 英语小垃圾
-- 二刺螈
-
+- inventor
 - ......
 
 
@@ -35,17 +33,41 @@ ____
 
 ### MCU（单片机）相关
 
+#### 无线系列
+
+难度：简单 
+
+ESP8266版
+
+esp8266，软件使用arduino
+
+[ESP-Simple - 嘉立创EDA](https://oshwhub.com/swp_mcu/esp-simple) 
+
+
+
+ESP32版
+
+学esp32的人都说很复杂，呃呃呃对我来说是蛮简单的（虽然我在大学的时候也没编译成功，但是现在不是idf出新的了，就容易多了）。
+
+[ESP32-软件代码]([SwiperWitty/Core-Caven-ESP32: ESP32 & ESP32S3 & more (github.com)](https://github.com/SwiperWitty/Core-Caven-ESP32))
+
+
+
 #### 小白版
 
 难度：一般
 
-小白入门玩的...
+主要是STM32F103系列、GD32F103，小白入门玩的...
+
+[Simple-32-软&硬](https://github.com/SwiperWitty/Simple-32)
 
 
 
 #### 常规版、工程版
 
 难度：一般
+
+主要是AT32F403ARET6系列、
 
 [软件程序(github.com)](https://github.com/SwiperWitty/Core-Caven32)
 
@@ -103,6 +125,10 @@ _____
 
 [QC2.0可调电源 (gitee.com)](https://gitee.com/Swiper_witty/pd_-qc2.0)
 
+[CH32V_PD - 嘉立创EDA](https://oshwhub.com/swp_mcu/ch32v_pd) 
+
+
+
 还有新的，预计在 2022年前出现...
 
 
@@ -123,7 +149,7 @@ ____
 
 暂时是用着别人的...很快我也要自己做的...很快！
 
-
+[Driver-Dcmotor - 嘉立创EDA](https://oshwhub.com/swp_mcu/driver-dcmotor)
 
 
 
@@ -167,7 +193,9 @@ _____
 
 #### 视觉系列
 
-相机
+夜视相机
+
+红外相机
 
 
 
