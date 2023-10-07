@@ -49,7 +49,7 @@ ESP32版
 
 学esp32的人都说很复杂，呃呃呃对我来说是蛮简单的（虽然我在大学的时候也没编译成功，但是现在不是idf出新的了，就容易多了）。
 
-[ESP32-软件代码]([SwiperWitty/Core-Caven-ESP32: ESP32 & ESP32S3 & more (github.com)](https://github.com/SwiperWitty/Core-Caven-ESP32))
+[ESP32-软件代码](https://github.com/SwiperWitty/Core-Caven-ESP32) 
 
 
 
